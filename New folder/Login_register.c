@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <conio.h>
+
 
 void menu();
 int check_database();
